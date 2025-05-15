@@ -2,6 +2,9 @@
     //1. Importing the svelte-flexmonster module:
     import { Flexmonster } from "svelte-flexmonster";
     
+    //2. Importing the Flexmonster CSS file in <script>
+    // import "flexmonster/flexmonster.css";
+
     function customizeToolbar(toolbar: Flexmonster.Toolbar): void {
         toolbar.showShareReportTab = true;
     }
