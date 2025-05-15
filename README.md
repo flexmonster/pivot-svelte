@@ -35,24 +35,13 @@ For ES6/TypeScript:
 git clone https://github.com/flexmonster/pivot-svelte.git && cd pivot-svelte
 ```
 
-2. Choose one of the following projects:
-    
-    - Try out the **Svelte + ES6** project with the following command:
-    ```bash
-    cd ES6
-    ```
-    - To see how the **Svelte + TypeScript** project works, run the following command:
-    ```bash
-    cd typescript
-    ```
-
-3. Install the npm dependencies described in `package.json`:
+2. Install the npm dependencies described in `package.json`:
 
 ```bash
 npm install
 ```
 
-4. Run the sample project:
+3. Run the sample project:
 
 ```bash
 npm start 
@@ -77,7 +66,6 @@ You can try all of these examples right from the project’s starting page.
 
 ## Related Flexmonster docs
 
-For ES6/TypeScript:
 - [Integration with Svelte]() — learn how to integrate Flexmonster into a svelte project.
 - [Usage examples in Svelte]() — see details on Flexmonster usage in svelte.
 

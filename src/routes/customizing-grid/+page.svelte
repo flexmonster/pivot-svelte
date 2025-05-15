@@ -53,7 +53,7 @@
             Style the grid by adding links, applying custom CSS, or formatting
             the cells. Check our docs for details:
             <a
-                href="https://www.flexmonster.com/doc/customizing-grid/?r=rm_vue"
+                href="https://www.flexmonster.com/doc/customizing-grid/?r=rm_svelte"
                 target="_blank"
                 class="title-link"
             >

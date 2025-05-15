@@ -1,9 +1,6 @@
 <script lang="ts">
-    //Using the vue-flexmonster module (local registration):
-    //1. Importing the vue-flexmonster module:
     import { Flexmonster } from "svelte-flexmonster";
     import ToggleSwitch from "../../components/ToggleSwitch.svelte";
-    import ToggleButton from "../../components/ToggleButton.svelte";
 
     let pivot: Flexmonster.Pivot;
     function customizeToolbar(toolbar: Flexmonster.Toolbar): void {
@@ -41,7 +38,6 @@
         showGrid();
       }
     }
-    //2. Using the vue-flexmonster component:
     function toggleMode(event: boolean): void {
       if (event) {
         readOnly();

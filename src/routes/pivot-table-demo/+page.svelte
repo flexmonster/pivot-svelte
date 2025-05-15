@@ -1,8 +1,7 @@
 <script lang="ts">
-    //Using the vue-flexmonster module (local registration):
-    //1. Importing the vue-flexmonster module:
+    //1. Importing the svelte-flexmonster module:
     import { Flexmonster } from "svelte-flexmonster";
-
+    
     function customizeToolbar(toolbar: Flexmonster.Toolbar): void {
         toolbar.showShareReportTab = true;
     }
@@ -24,7 +23,7 @@
         <p>
             Visit
             <a
-                href="https://www.flexmonster.com/doc/?r=rm_vue"
+                href="https://www.flexmonster.com/doc/?r=rm_svelte"
                 target="_blank"
                 class="title-link">our documentation</a
             >

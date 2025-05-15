@@ -7,7 +7,7 @@
         pivot.alert({
             title: "Customizing Flexmonster",
             message:
-                "How to customize the Toolbar: <a style='text-decoration:underline; color:#00A45A' target='blank' href='https://www.flexmonster.com/doc/customizing-toolbar/?r=rm_vue'>https://www.flexmonster.com/doc/customizing-toolbar/</a> <br>",
+                "How to customize the Toolbar: <a style='text-decoration:underline; color:#00A45A' target='blank' href='https://www.flexmonster.com/doc/customizing-toolbar/?r=rm_svelte'>https://www.flexmonster.com/doc/customizing-toolbar/</a> <br>",
             type: "info",
             blocking: false,
         });
@@ -38,7 +38,7 @@
             <strong>New Tab</strong>. See our docs to learn more about the
             Toolbar and its customization:
             <a
-                href="https://www.flexmonster.com/doc/customizing-toolbar/?r=rm_vue"
+                href="https://www.flexmonster.com/doc/customizing-toolbar/?r=rm_svelte"
                 target="_blank"
                 class="title-link">Customizing the Toolbar</a
             >.

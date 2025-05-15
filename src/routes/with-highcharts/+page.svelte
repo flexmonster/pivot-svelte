@@ -39,7 +39,7 @@
             Integrate Flexmonster with Highcharts and see your data from a new
             perspective:
             <a
-                href="https://www.flexmonster.com/doc/integration-with-highcharts/?r=rm_vue"
+                href="https://www.flexmonster.com/doc/integration-with-highcharts/?r=rm_svelte"
                 target="_blank"
                 class="title-link">Integration with Highcharts</a
             >.

@@ -110,7 +110,7 @@
         <a
           class="title-link"
           target="blank"
-          href="https://www.flexmonster.com/api/events/?r=rm_vue"
+          href="https://www.flexmonster.com/api/events/?r=rm_svelte"
           >Flexmonster event</a
         >. Scroll down to the log output to see which events get triggered.
       </p>
