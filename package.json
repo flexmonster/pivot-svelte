@@ -26,6 +26,6 @@
 		"@amcharts/amcharts5": "^5.12.2",
 		"highcharts": "^12.2.0",
 		"open-cli": "^8.0.0",
-		"svelte-flexmonster": "^2.9.103-beta.1"
+		"svelte-flexmonster": "latest"
 	}
 }
