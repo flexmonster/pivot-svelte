@@ -5,9 +5,9 @@ Website: [flexmonster.com](https://www.flexmonster.com?r=sample_svelte)
 [![Github Stars](https://img.shields.io/github/stars/flexmonster?style=social)](https://github.com/flexmonster) [![Twitter](https://img.shields.io/twitter/follow/Flexmonster?style=social)](https://twitter.com/Flexmonster)
 
 ## Flexmonster Pivot Table & Charts
-Flexmonster Pivot Table & Charts is a powerful and fully customizable JavaScript component for web reporting. It is packed with all core features for data analysis and can easily become a part of your Svelte data visualization project. The tool supports popular frameworks like Svelte, Angular, React, Vue, Blazor, and [more](https://www.flexmonster.com/doc/available-tutorials-integration?r=sample_svelte). Also, Flexmonster connects to any data source, including SQL and NoSQL databases, JSON and CSV files, OLAP cubes, and Elasticsearch. 
+Flexmonster Pivot Table & Charts is a powerful and fully customizable JavaScript component for web reporting. It is packed with all core features for data analysis and can easily become a part of your Svelte data visualization project. The tool supports popular frameworks like Angular, React, Vue, Blazor, and [more](https://www.flexmonster.com/doc/available-tutorials-integration?r=sample_svelte). Also, Flexmonster connects to any data source, including SQL and NoSQL databases, JSON and CSV files, OLAP cubes, and Elasticsearch. 
 
-This repository contains sample [Svelte](https://sveltejs.org/) projects for Flexmonster Pivot Table & Charts.
+This repository contains a sample [Svelte](https://svelte.dev/) project for Flexmonster Pivot Table & Charts.
 
 Table of contents:
 
@@ -21,10 +21,6 @@ Table of contents:
 
 ## Prerequisites
 
-For Next.js:
-- [Node.js 18.18.0 or later](https://nodejs.org/en/)
-
-For ES6/TypeScript:
 - [Node.js 14.0 or later](https://nodejs.org/en/)
 
 ## Installation
@@ -53,12 +49,12 @@ To see the result, open `http://localhost:5173/` in your browser.
 
 Svelte sample project contains several examples of Flexmonster Pivot usage and customization:
 
-- **Pivot table demo** shows how to define the `report`, `toolbar`, `width`, `height`, `beforetoolbarcreated`, and `shareReportConnection` initialization parameters in the pivot grid for svelte. 
+- **Pivot table demo** shows how to define the `report`, `toolbar`, and other initialization parameters in the pivot grid for Svelte. 
 - **Handling events** demonstrates how to subscribe to events and unsubscribe from them. 
 - **Using API calls** illustrates how to use Flexmonster's methods. 
-- **Updating data** is an example of using the `updateData()` method.
-- **Customizing the Toolbar** illustrates how to customize the Toolbar.
-- **Customizing the grid** shows how to customize the pivot table using the `customizeCell()` API call.
+- **Updating data** is an example of refreshing data at runtime using the `updateData()` method.
+- **Customizing the Toolbar** shows how to customize the Toolbar.
+- **Customizing the grid** illustrates how to customize the pivot table using the `customizeCell()` API call.
 - **Integration with Highcharts** demonstrates how to integrate with the Highcharts charting library.
 - **Integration with amCharts** is an example of integration with the amCharts charting library.
   
@@ -66,8 +62,8 @@ You can try all of these examples right from the project’s starting page.
 
 ## Related Flexmonster docs
 
-- [Integration with Svelte]() — learn how to integrate Flexmonster into a svelte project.
-- [Usage examples in Svelte]() — see details on Flexmonster usage in svelte.
+- [Integration with Svelte](https://www.flexmonster.com/doc/integration-with-svelte/) — learn how to integrate Flexmonster into a Svelte project.
+- [Using methods and events in Svelte](https://www.flexmonster.com/doc/using-methods-and-events-svelte/) — see details on using methods and events into a Svelte project.
 
 ## Support and feedback
 
@@ -77,7 +73,7 @@ To share your feedback or ask questions, contact our Tech team by raising a tick
 
 ## Flexmonster licensing
 
-This sample project uses [Flexmonster svelte wrapper](https://github.com/flexmonster/svelte-flexmonster), which is released as an MIT-licensed (free and open-source) add-on to Flexmonster Pivot.
+This sample project uses [Flexmonster Svelte wrapper](https://github.com/flexmonster/svelte-flexmonster), which is released as an MIT-licensed (free and open-source) add-on to Flexmonster Pivot.
 
 To learn about Flexmonster Pivot licenses, visit the [Flexmonster licensing page](https://www.flexmonster.com/pivot-table-editions-and-pricing?r=sample_svelte). 
 If you want to test our product, we provide a 30-day free trial.
