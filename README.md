@@ -63,7 +63,7 @@ You can try all of these examples right from the project’s starting page.
 ## Related Flexmonster docs
 
 - [Integration with Svelte](https://www.flexmonster.com/doc/integration-with-svelte/) — learn how to integrate Flexmonster into a Svelte project.
-- [Using methods and events in Svelte](https://www.flexmonster.com/doc/using-methods-and-events-svelte/) — see details on using methods and events into a Svelte project.
+- [Usage examples in Svelte](https://www.flexmonster.com/doc/usage-examples-svelte/) — see details on Flexmonster usage in Svelte.
 
 ## Support and feedback
 
