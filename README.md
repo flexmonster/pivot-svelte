@@ -1,4 +1,4 @@
-# Svelte pivot grid | Flexmonster Pivot Table & Charts sample project with Svelte
+# Svelte pivot table | Flexmonster Pivot Table & Charts sample project with Svelte
 [![Flexmonster Pivot Table & Charts](https://cdn.flexmonster.com/readmes/svelte.png)](https://www.flexmonster.com?r=sample_svelte)
 Website: [flexmonster.com](https://www.flexmonster.com?r=sample_svelte)
 
